@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/finance-track/static/css/main.fae9f58f.css",
+    "main.js": "/finance-track/static/js/main.2894904f.js",
+    "static/js/453.ed3810f9.chunk.js": "/finance-track/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/finance-track/index.html",
+    "main.fae9f58f.css.map": "/finance-track/static/css/main.fae9f58f.css.map",
+    "main.2894904f.js.map": "/finance-track/static/js/main.2894904f.js.map",
+    "453.ed3810f9.chunk.js.map": "/finance-track/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fae9f58f.css",
+    "static/js/main.2894904f.js"
+  ]
+}
